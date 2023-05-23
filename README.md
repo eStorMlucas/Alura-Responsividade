@@ -1,6 +1,6 @@
 # Projeto-Apeperia
 
-Course provided by **Alura** with Matheus Alberto as an instructor: 
+Course provided by **Alura** with **Matheus Alberto** as an instructor: 
  <a href="https://cursos.alura.com.br/course/mobile-first-layouts-responsivos" target="_blank"> Access Here </a>  
 
 # Site Preview: 
